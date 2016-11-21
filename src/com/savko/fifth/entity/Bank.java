@@ -23,7 +23,6 @@ public class Bank {
         Bank bank = (Bank) o;
 
         return deposits != null ? deposits.equals(bank.deposits) : bank.deposits == null;
-
     }
 
     @Override

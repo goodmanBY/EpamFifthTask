@@ -16,7 +16,6 @@ import java.io.OutputStream;
 public class ConvertToHtml {
 
     public static void convert(String xslPath, String xmlPath) throws ConverterException {
-
         try {
             TransformerFactory tFactory = TransformerFactory.newInstance();
 
