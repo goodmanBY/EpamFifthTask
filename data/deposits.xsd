@@ -1,0 +1,50 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified"
+           elementFormDefault="qualified">
+
+    <xs:element name="bank">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="deposit" maxOccurs="unbounded" minOccurs="0">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:string" name="bankName"/>
+                            <xs:element type="xs:string" name="country"/>
+                            <xs:element type="DepositType" name="depositType"/>
+                            <xs:element type="xs:string" name="depositor"/>
+                            <xs:element name="accountId">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:int">
+                                        <xs:minInclusive value="0"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element type="xs:int" name="amount"/>
+                            <xs:element name="profitability">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:int">
+                                        <xs:minInclusive value="0"/>
+                                        <xs:maxInclusive value="30"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element type="xs:int" name="timeConstraints"/>
+                        </xs:sequence>
+                        <xs:attribute type="xs:int" name="id" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="DepositType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Demand"/>
+            <xs:enumeration value="Fixed"/>
+            <xs:enumeration value="Estimated"/>
+            <xs:enumeration value="Accumulation"/>
+            <xs:enumeration value="Saving"/>
+            <xs:enumeration value="Metal"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>

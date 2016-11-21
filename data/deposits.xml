@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bank>
+
+    <deposit id="1">
+        <bankName>Bank Of America</bankName>
+        <country>Ukraine</country>
+        <depositType>Fixed</depositType>
+        <depositor>Tima Bondarenko</depositor>
+        <accountId>1</accountId>
+        <amount>50000</amount>
+        <profitability>10</profitability>
+        <timeConstraints>12</timeConstraints>
+    </deposit>
+
+    <deposit id="2">
+        <bankName>Bank of Japan</bankName>
+        <country>Belarus</country>
+        <depositType>Metal</depositType>
+        <depositor>Roman Grinovski</depositor>
+        <accountId>2</accountId>
+        <amount>100000</amount>
+        <profitability>25</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="3">
+        <bankName>Bank of Europe</bankName>
+        <country>Romain</country>
+        <depositType>Metal</depositType>
+        <depositor>Gree Patkin</depositor>
+        <accountId>3</accountId>
+        <amount>50000</amount>
+        <profitability>15</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="4">
+        <bankName>Bank of Japan</bankName>
+        <country>Belarus</country>
+        <depositType>Saving</depositType>
+        <depositor>Eugene Antonovich</depositor>
+        <accountId>4</accountId>
+        <amount>200000</amount>
+        <profitability>17</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="5">
+        <bankName>Bank of GB</bankName>
+        <country>Belarus</country>
+        <depositType>Demand</depositType>
+        <depositor>Phill Giro</depositor>
+        <accountId>5</accountId>
+        <amount>500000</amount>
+        <profitability>22</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="6">
+        <bankName>Bank of USA</bankName>
+        <country>Poland</country>
+        <depositType>Accumulation</depositType>
+        <depositor>Margo Mix</depositor>
+        <accountId>6</accountId>
+        <amount>500000</amount>
+        <profitability>20</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="7">
+        <bankName>Bank of Belarus</bankName>
+        <country>USA</country>
+        <depositType>Accumulation</depositType>
+        <depositor>Chris Miller</depositor>
+        <accountId>7</accountId>
+        <amount>600000</amount>
+        <profitability>17</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="8">
+        <bankName>Bank of Belarus</bankName>
+        <country>USA</country>
+        <depositType>Accumulation</depositType>
+        <depositor>Tomas Cat</depositor>
+        <accountId>8</accountId>
+        <amount>800000</amount>
+        <profitability>17</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="9">
+        <bankName>Bank of Japan</bankName>
+        <country>Russia</country>
+        <depositType>Accumulation</depositType>
+        <depositor>Mihail Boyarski</depositor>
+        <accountId>9</accountId>
+        <amount>500000</amount>
+        <profitability>17</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="10">
+        <bankName>Bank of GB</bankName>
+        <country>GB</country>
+        <depositType>Fixed</depositType>
+        <depositor>Alex Miller</depositor>
+        <accountId>10</accountId>
+        <amount>700000</amount>
+        <profitability>16</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="11">
+        <bankName>Bank of Ukraine</bankName>
+        <country>Belarus</country>
+        <depositType>Accumulation</depositType>
+        <depositor>Roman Firo</depositor>
+        <accountId>11</accountId>
+        <amount>200000</amount>
+        <profitability>17</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="12">
+        <bankName>Bank of Belarus</bankName>
+        <country>GB</country>
+        <depositType>Accumulation</depositType>
+        <depositor>Mike Kim</depositor>
+        <accountId>12</accountId>
+        <amount>2000000</amount>
+        <profitability>14</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="13">
+        <bankName>Bank of USA</bankName>
+        <country>Ukraine</country>
+        <depositType>Fixed</depositType>
+        <depositor>Vitalii Filonov</depositor>
+        <accountId>13</accountId>
+        <amount>400000</amount>
+        <profitability>17</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="14">
+        <bankName>Bank of Germany</bankName>
+        <country>Russia</country>
+        <depositType>Accumulation</depositType>
+        <depositor>Vadim Kolokolov</depositor>
+        <accountId>14</accountId>
+        <amount>200000</amount>
+        <profitability>17</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="15">
+        <bankName>Bank of Japan</bankName>
+        <country>Ukraine</country>
+        <depositType>Accumulation</depositType>
+        <depositor>Anya Budko</depositor>
+        <accountId>15</accountId>
+        <amount>1000000</amount>
+        <profitability>17</profitability>
+        <timeConstraints>24</timeConstraints>
+    </deposit>
+
+    <deposit id="16">
+        <bankName>Bank of Belarus</bankName>
+        <country>Belarus</country>
+        <depositType>Fixed</depositType>
+        <depositor>Max Fordo</depositor>
+        <accountId>16</accountId>
+        <amount>500000</amount>
+        <profitability>17</profitability>
+        <timeConstraints>48</timeConstraints>
+    </deposit>
+
+</bank>
+

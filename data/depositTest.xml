@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bank>
+    <deposit id="3">
+        <bankName>Bank of Norway</bankName>
+        <country>Ukraine</country>
+        <depositType>Saving</depositType>
+        <depositor>Vitalii Volochai</depositor>
+        <accountId>5</accountId>
+        <amount>200000</amount>
+        <profitability>25</profitability>
+        <timeConstraints>48</timeConstraints>
+    </deposit>
+</bank>
+

@@ -1,0 +1,442 @@
+21.11.2016 23:14:26 [main] INFO  [com.savko.fifth.runner.AppRunner] - 
+Deposits:
+	Deposit ID: 1
+	Name of bank: Bank Of America
+	Country of registration: Ukraine
+	Name of depositor: Tima Bondarenko
+	Type of deposit: Fixed
+	Account ID: 1
+	Amount of deposit: 50000$
+	Profitability: 10%
+	Time constraints: 12 month
+	Deposit ID: 2
+	Name of bank: Bank of Japan
+	Country of registration: Belarus
+	Name of depositor: Roman Grinovski
+	Type of deposit: Metal
+	Account ID: 2
+	Amount of deposit: 100000$
+	Profitability: 25%
+	Time constraints: 24 month
+	Deposit ID: 3
+	Name of bank: Bank of Europe
+	Country of registration: Romain
+	Name of depositor: Gree Patkin
+	Type of deposit: Metal
+	Account ID: 3
+	Amount of deposit: 50000$
+	Profitability: 15%
+	Time constraints: 24 month
+	Deposit ID: 4
+	Name of bank: Bank of Japan
+	Country of registration: Belarus
+	Name of depositor: Eugene Antonovich
+	Type of deposit: Saving
+	Account ID: 4
+	Amount of deposit: 200000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 5
+	Name of bank: Bank of GB
+	Country of registration: Belarus
+	Name of depositor: Phill Giro
+	Type of deposit: Demand
+	Account ID: 5
+	Amount of deposit: 500000$
+	Profitability: 22%
+	Time constraints: 24 month
+	Deposit ID: 6
+	Name of bank: Bank of USA
+	Country of registration: Poland
+	Name of depositor: Margo Mix
+	Type of deposit: Accumulation
+	Account ID: 6
+	Amount of deposit: 500000$
+	Profitability: 20%
+	Time constraints: 24 month
+	Deposit ID: 7
+	Name of bank: Bank of Belarus
+	Country of registration: USA
+	Name of depositor: Chris Miller
+	Type of deposit: Accumulation
+	Account ID: 7
+	Amount of deposit: 600000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 8
+	Name of bank: Bank of Belarus
+	Country of registration: USA
+	Name of depositor: Tomas Cat
+	Type of deposit: Accumulation
+	Account ID: 8
+	Amount of deposit: 800000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 9
+	Name of bank: Bank of Japan
+	Country of registration: Russia
+	Name of depositor: Mihail Boyarski
+	Type of deposit: Accumulation
+	Account ID: 9
+	Amount of deposit: 500000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 10
+	Name of bank: Bank of GB
+	Country of registration: GB
+	Name of depositor: Alex Miller
+	Type of deposit: Fixed
+	Account ID: 10
+	Amount of deposit: 700000$
+	Profitability: 16%
+	Time constraints: 24 month
+	Deposit ID: 11
+	Name of bank: Bank of Ukraine
+	Country of registration: Belarus
+	Name of depositor: Roman Firo
+	Type of deposit: Accumulation
+	Account ID: 11
+	Amount of deposit: 200000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 12
+	Name of bank: Bank of Belarus
+	Country of registration: GB
+	Name of depositor: Mike Kim
+	Type of deposit: Accumulation
+	Account ID: 12
+	Amount of deposit: 2000000$
+	Profitability: 14%
+	Time constraints: 24 month
+	Deposit ID: 13
+	Name of bank: Bank of USA
+	Country of registration: Ukraine
+	Name of depositor: Vitalii Filonov
+	Type of deposit: Fixed
+	Account ID: 13
+	Amount of deposit: 400000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 14
+	Name of bank: Bank of Germany
+	Country of registration: Russia
+	Name of depositor: Vadim Kolokolov
+	Type of deposit: Accumulation
+	Account ID: 14
+	Amount of deposit: 200000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 15
+	Name of bank: Bank of Japan
+	Country of registration: Ukraine
+	Name of depositor: Anya Budko
+	Type of deposit: Accumulation
+	Account ID: 15
+	Amount of deposit: 1000000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 16
+	Name of bank: Bank of Belarus
+	Country of registration: Belarus
+	Name of depositor: Max Fordo
+	Type of deposit: Fixed
+	Account ID: 16
+	Amount of deposit: 500000$
+	Profitability: 17%
+	Time constraints: 48 month
+
+21.11.2016 23:14:26 [main] INFO  [com.savko.fifth.runner.AppRunner] - 
+Deposits:
+	Deposit ID: 1
+	Name of bank: Bank Of America
+	Country of registration: Ukraine
+	Name of depositor: Tima Bondarenko
+	Type of deposit: Fixed
+	Account ID: 1
+	Amount of deposit: 50000$
+	Profitability: 10%
+	Time constraints: 12 month
+	Deposit ID: 2
+	Name of bank: Bank of Japan
+	Country of registration: Belarus
+	Name of depositor: Roman Grinovski
+	Type of deposit: Metal
+	Account ID: 2
+	Amount of deposit: 100000$
+	Profitability: 25%
+	Time constraints: 24 month
+	Deposit ID: 3
+	Name of bank: Bank of Europe
+	Country of registration: Romain
+	Name of depositor: Gree Patkin
+	Type of deposit: Metal
+	Account ID: 3
+	Amount of deposit: 50000$
+	Profitability: 15%
+	Time constraints: 24 month
+	Deposit ID: 4
+	Name of bank: Bank of Japan
+	Country of registration: Belarus
+	Name of depositor: Eugene Antonovich
+	Type of deposit: Saving
+	Account ID: 4
+	Amount of deposit: 200000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 5
+	Name of bank: Bank of GB
+	Country of registration: Belarus
+	Name of depositor: Phill Giro
+	Type of deposit: Demand
+	Account ID: 5
+	Amount of deposit: 500000$
+	Profitability: 22%
+	Time constraints: 24 month
+	Deposit ID: 6
+	Name of bank: Bank of USA
+	Country of registration: Poland
+	Name of depositor: Margo Mix
+	Type of deposit: Accumulation
+	Account ID: 6
+	Amount of deposit: 500000$
+	Profitability: 20%
+	Time constraints: 24 month
+	Deposit ID: 7
+	Name of bank: Bank of Belarus
+	Country of registration: USA
+	Name of depositor: Chris Miller
+	Type of deposit: Accumulation
+	Account ID: 7
+	Amount of deposit: 600000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 8
+	Name of bank: Bank of Belarus
+	Country of registration: USA
+	Name of depositor: Tomas Cat
+	Type of deposit: Accumulation
+	Account ID: 8
+	Amount of deposit: 800000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 9
+	Name of bank: Bank of Japan
+	Country of registration: Russia
+	Name of depositor: Mihail Boyarski
+	Type of deposit: Accumulation
+	Account ID: 9
+	Amount of deposit: 500000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 10
+	Name of bank: Bank of GB
+	Country of registration: GB
+	Name of depositor: Alex Miller
+	Type of deposit: Fixed
+	Account ID: 10
+	Amount of deposit: 700000$
+	Profitability: 16%
+	Time constraints: 24 month
+	Deposit ID: 11
+	Name of bank: Bank of Ukraine
+	Country of registration: Belarus
+	Name of depositor: Roman Firo
+	Type of deposit: Accumulation
+	Account ID: 11
+	Amount of deposit: 200000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 12
+	Name of bank: Bank of Belarus
+	Country of registration: GB
+	Name of depositor: Mike Kim
+	Type of deposit: Accumulation
+	Account ID: 12
+	Amount of deposit: 2000000$
+	Profitability: 14%
+	Time constraints: 24 month
+	Deposit ID: 13
+	Name of bank: Bank of USA
+	Country of registration: Ukraine
+	Name of depositor: Vitalii Filonov
+	Type of deposit: Fixed
+	Account ID: 13
+	Amount of deposit: 400000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 14
+	Name of bank: Bank of Germany
+	Country of registration: Russia
+	Name of depositor: Vadim Kolokolov
+	Type of deposit: Accumulation
+	Account ID: 14
+	Amount of deposit: 200000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 15
+	Name of bank: Bank of Japan
+	Country of registration: Ukraine
+	Name of depositor: Anya Budko
+	Type of deposit: Accumulation
+	Account ID: 15
+	Amount of deposit: 1000000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 16
+	Name of bank: Bank of Belarus
+	Country of registration: Belarus
+	Name of depositor: Max Fordo
+	Type of deposit: Fixed
+	Account ID: 16
+	Amount of deposit: 500000$
+	Profitability: 17%
+	Time constraints: 48 month
+
+21.11.2016 23:14:26 [main] INFO  [com.savko.fifth.runner.AppRunner] - 
+Deposits:
+	Deposit ID: 1
+	Name of bank: Bank Of America
+	Country of registration: Ukraine
+	Name of depositor: Tima Bondarenko
+	Type of deposit: Fixed
+	Account ID: 1
+	Amount of deposit: 50000$
+	Profitability: 10%
+	Time constraints: 12 month
+	Deposit ID: 2
+	Name of bank: Bank of Japan
+	Country of registration: Belarus
+	Name of depositor: Roman Grinovski
+	Type of deposit: Metal
+	Account ID: 2
+	Amount of deposit: 100000$
+	Profitability: 25%
+	Time constraints: 24 month
+	Deposit ID: 3
+	Name of bank: Bank of Europe
+	Country of registration: Romain
+	Name of depositor: Gree Patkin
+	Type of deposit: Metal
+	Account ID: 3
+	Amount of deposit: 50000$
+	Profitability: 15%
+	Time constraints: 24 month
+	Deposit ID: 4
+	Name of bank: Bank of Japan
+	Country of registration: Belarus
+	Name of depositor: Eugene Antonovich
+	Type of deposit: Saving
+	Account ID: 4
+	Amount of deposit: 200000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 5
+	Name of bank: Bank of GB
+	Country of registration: Belarus
+	Name of depositor: Phill Giro
+	Type of deposit: Demand
+	Account ID: 5
+	Amount of deposit: 500000$
+	Profitability: 22%
+	Time constraints: 24 month
+	Deposit ID: 6
+	Name of bank: Bank of USA
+	Country of registration: Poland
+	Name of depositor: Margo Mix
+	Type of deposit: Accumulation
+	Account ID: 6
+	Amount of deposit: 500000$
+	Profitability: 20%
+	Time constraints: 24 month
+	Deposit ID: 7
+	Name of bank: Bank of Belarus
+	Country of registration: USA
+	Name of depositor: Chris Miller
+	Type of deposit: Accumulation
+	Account ID: 7
+	Amount of deposit: 600000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 8
+	Name of bank: Bank of Belarus
+	Country of registration: USA
+	Name of depositor: Tomas Cat
+	Type of deposit: Accumulation
+	Account ID: 8
+	Amount of deposit: 800000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 9
+	Name of bank: Bank of Japan
+	Country of registration: Russia
+	Name of depositor: Mihail Boyarski
+	Type of deposit: Accumulation
+	Account ID: 9
+	Amount of deposit: 500000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 10
+	Name of bank: Bank of GB
+	Country of registration: GB
+	Name of depositor: Alex Miller
+	Type of deposit: Fixed
+	Account ID: 10
+	Amount of deposit: 700000$
+	Profitability: 16%
+	Time constraints: 24 month
+	Deposit ID: 11
+	Name of bank: Bank of Ukraine
+	Country of registration: Belarus
+	Name of depositor: Roman Firo
+	Type of deposit: Accumulation
+	Account ID: 11
+	Amount of deposit: 200000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 12
+	Name of bank: Bank of Belarus
+	Country of registration: GB
+	Name of depositor: Mike Kim
+	Type of deposit: Accumulation
+	Account ID: 12
+	Amount of deposit: 2000000$
+	Profitability: 14%
+	Time constraints: 24 month
+	Deposit ID: 13
+	Name of bank: Bank of USA
+	Country of registration: Ukraine
+	Name of depositor: Vitalii Filonov
+	Type of deposit: Fixed
+	Account ID: 13
+	Amount of deposit: 400000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 14
+	Name of bank: Bank of Germany
+	Country of registration: Russia
+	Name of depositor: Vadim Kolokolov
+	Type of deposit: Accumulation
+	Account ID: 14
+	Amount of deposit: 200000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 15
+	Name of bank: Bank of Japan
+	Country of registration: Ukraine
+	Name of depositor: Anya Budko
+	Type of deposit: Accumulation
+	Account ID: 15
+	Amount of deposit: 1000000$
+	Profitability: 17%
+	Time constraints: 24 month
+	Deposit ID: 16
+	Name of bank: Bank of Belarus
+	Country of registration: Belarus
+	Name of depositor: Max Fordo
+	Type of deposit: Fixed
+	Account ID: 16
+	Amount of deposit: 500000$
+	Profitability: 17%
+	Time constraints: 48 month
+
+21.11.2016 23:14:26 [main] INFO  [com.savko.fifth.runner.AppRunner] - Is data/deposits.xml validates against data/deposits.xsd? true
